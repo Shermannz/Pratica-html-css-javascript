@@ -3,6 +3,15 @@
     height: 50ex;
 }
 
+a:hover {
+  color: coral;
+}
+
+
+* {
+    background-color: rgb(255, 253, 249);
+}
+
 #games {
     background-color: rgb(145, 224, 178);
 }
@@ -10,3 +19,4 @@
 #jogos {
     background-color: rgb(152, 152, 247);
 }
+
